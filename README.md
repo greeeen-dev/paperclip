@@ -1,2 +1,2 @@
-# paperclip
-An experimental Rust bridge bot
+# Paperclip
+An experimental Rust bridge bot that puts bridging speeds first
